@@ -1,5 +1,9 @@
 # 🏋️ Gym Performance Analytics
 
+[![CI](https://github.com/Hisham11Computer/Gym-Performance-Analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/Gym-Performance-Analytics/actions)
+![SQL](https://img.shields.io/badge/SQL-ANSI-blue) ![Power BI](https://img.shields.io/badge/Power%20BI-dashboard-F2C811) ![Python](https://img.shields.io/badge/Python-3.12-3776AB) ![License](https://img.shields.io/badge/license-MIT-green)
+
+
 End-to-end analytics project: a normalized **SQL** database of gym members, workouts and nutrition, analysed with advanced SQL (CTEs, window functions, views), validated with automated data-quality checks, and presented in an interactive **Power BI** dashboard.
 
 > **Business question:** *Which members are actually getting stronger — and what drives it: goal, calories or consistency?*
@@ -25,14 +29,6 @@ End-to-end analytics project: a normalized **SQL** database of gym members, work
 | 3 | **Low attendance is the clearest drag** | < 20 sessions → 4.7 % gain vs 14–16 % for everyone else |
 | 4 | **8 members are churn risks** | no session in the last 6 gym days |
 
-<p>
-<img src="docs/images/01_improvement_by_goal.png" width="48%">
-<img src="docs/images/03_improvement_by_attendance.png" width="48%">
-</p>
-<p>
-<img src="docs/images/02_calories_vs_improvement.png" width="48%">
-<img src="docs/images/04_top10_members.png" width="48%">
-</p>
 
 Full query outputs are in [`results/`](results/).
 
