@@ -1,0 +1,6 @@
+exercise,times_done,avg_weight_kg,avg_volume,popularity_rank
+Bench Press,251,59.0,505.0,1
+Squat,222,76.0,623.0,2
+Deadlift,214,93.4,792.0,3
+Barbell Row,213,52.8,454.0,4
+Overhead Press,210,35.1,294.0,5

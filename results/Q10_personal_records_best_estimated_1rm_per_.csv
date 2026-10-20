@@ -1,0 +1,16 @@
+member_id,name,exercise,pr_date,weight_lifted,reps,est_1rm
+32,Dylan,Deadlift,2026-05-27,177.5,8,224.8
+15,Jacob,Deadlift,2026-06-08,145,12,203.0
+24,Aiden,Deadlift,2026-04-10,145,12,203.0
+29,Wyatt,Deadlift,2026-06-08,142.5,12,199.5
+11,Alexander,Deadlift,2026-06-08,147.5,8,186.8
+20,Mateo,Deadlift,2026-06-19,132.5,12,185.5
+21,Jack,Deadlift,2026-06-19,132.5,12,185.5
+23,Theodore,Deadlift,2026-04-10,127.5,12,178.5
+9,Benjamin,Deadlift,2026-04-10,115,12,161.0
+32,Dylan,Squat,2026-06-17,137.5,5,160.4
+20,Mateo,Squat,2026-06-05,125,8,158.3
+29,Wyatt,Squat,2026-05-25,112.5,12,157.5
+5,Lucas,Deadlift,2026-06-19,110,12,154.0
+15,Jacob,Squat,2026-05-25,115,10,153.3
+9,Benjamin,Squat,2026-05-01,107.5,12,150.5

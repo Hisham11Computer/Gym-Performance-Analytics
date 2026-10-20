@@ -1,0 +1,11 @@
+member_id,name,goal,experience_level,sessions,avg_improvement_pct,rnk
+27,John,bulk,beginner,26,36.5,1
+38,Olivia,bulk,beginner,27,34.0,2
+44,Emily,bulk,beginner,27,33.6,3
+3,Noah,bulk,beginner,24,32.4,4
+20,Mateo,bulk,intermediate,29,28.2,5
+8,William,bulk,intermediate,30,27.9,6
+5,Lucas,bulk,intermediate,34,25.9,7
+33,Ryan,cut,beginner,34,25.0,8
+1,James,bulk,beginner,27,24.6,9
+37,Emma,cut,intermediate,21,23.6,10
